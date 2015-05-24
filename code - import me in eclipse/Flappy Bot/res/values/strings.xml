@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- TO MODIFY MOST OF THE COLORS AND VARIABLES OPEN MAINGAME.JAVA AND SEARCH FOR TODO TAGS. THEY INDICATE THINGS YOU NEED TO CHANGE -->
+    <!-- App Name -->
+    <string name="app_name">Flappy AK</string>
+
+    <!-- Game Over -->
+    <string name="game_over">Fight Again!</string>
+
+    <!-- Top scores menu -->
+    <string name="Highscores">Top Scores</string>
+    <string name="Enter_highscore_comment">Congrats! Enter your name</string>
+    <string name="Highscore_hint">Your Name</string>
+    <string name="Default_topscore_name">Flappy AK</string>
+
+    <!-- Game Play -->
+    <string name="Paused">Paused</string>
+    <string name="Tap_to_start">Tap To Start</string>
+
+    <!-- Main Menu -->
+    <string name="Play">Play</string>
+
+    <!-- Facebook -->
+    <!-- Create a new app on facebook, give it the hash of this App and the package name, then put the id here -->
+    <string name="app_facebook_id">963456207022716</string>
+    <string name="Error_no_facebook_app_installed">Facebook not installed on your Device.</string>
+    <string name="facebook_share_description">Check out my score on Flappy Bot</string>
+    <string name="facebook_share_link">https://play.google.com/store/apps/details?id=com.pra4.flappyaks</string>
+
+    
+    
+    <!-- ADVERTISING VARIABLES ___________________________________________________________________________________________ -->
+
+
+    <!-- Admob settings____________________________________________________________________________________________________________________ -->
+    <!-- Banner Ad unit id - you should get the banner ad unit id from admob - OPTIONAL - MAY BE LEFT EMPTY TO DISABLE BANNER ADS -->
+    <string name="BannerAd_unit_id"></string>
+
+    <!-- Interstitial Ad unit id - you should get the Interstitial ad unit id from admob - OPTIONAL - MAY BE LEFT EMPTY TO DISABLE INTERSTITIAL ADS -->
+    <string name="InterstitialAd_unit_id">PUT INTERSTITIAL AD UNIT ID FROM ADMOB HERE</string>
+
+    <!-- The Interstitial ad can be shown once every 2 gameovers. replace with 1 to show it after every gameover -->
+    <integer name="ad_shows_every_X_gameovers">3</integer>
+
+</resources>

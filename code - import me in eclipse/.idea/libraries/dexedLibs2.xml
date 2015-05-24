@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Flappy Bot/bin/dexedLibs/facebooksdk-5b7d7e1d3804d6780694462da037e549.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flappy Bot/bin/dexedLibs/google-play-services_lib-a098e51bfd32470b3041ff87a7025ebc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flappy Bot/bin/dexedLibs/android-support-v4-3b825803364bf8c8d0adcae24c8c47e1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flappy Bot/bin/dexedLibs/google-play-services-be241ac70bdf236234b67b1e7342ac5a.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
